@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "lwjameson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/17829439?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "lwjameson",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2025-04-15T15:40:37.057Z",
-    "updated_at": "2025-04-15T15:40:37.057Z"
-  }
+    "updated_at": "2025-04-15T15:40:37.057Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "5f5ca4ba-2b00-4ca4-8b40-6903045d7844": {
+      "content": [],
+      "created_at": "2025-04-15T15:40:37.062Z",
+      "created_by": "lwjameson",
+      "title": "Empty Project Test",
+      "updated_at": "2025-04-15T15:40:37.062Z",
+      "updated_by": "lwjameson",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "5f5ca4ba-2b00-4ca4-8b40-6903045d7844"
+  ]
 }
