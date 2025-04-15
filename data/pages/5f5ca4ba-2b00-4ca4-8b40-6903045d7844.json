@@ -3,10 +3,10 @@
   "created_at": "2025-04-15T15:40:37.062Z",
   "created_by": "lwjameson",
   "title": "Empty Project Test",
-  "updated_at": "2025-04-15T15:40:37.062Z",
+  "updated_at": "2025-04-15T17:21:38.316Z",
   "updated_by": "lwjameson",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
